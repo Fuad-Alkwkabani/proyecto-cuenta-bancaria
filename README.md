@@ -44,7 +44,7 @@ Los tests tienen una cobertura del 100% para las clases Cuenta, CuentaAhorros y 
 
 ### Diagrama UML
 
-![Diagrama UML](<img src="/src/foto /Imagen pegada (2).png>)
+![Diagrama UML]<img src="/src/foto /Imagen pegada (2).png"/>
 
 
 <h3>Captura de la cobertura de tests</h3>
